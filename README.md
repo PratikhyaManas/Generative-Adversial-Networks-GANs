@@ -1,1 +1,1 @@
-# Generative-Adversial-Networks-GANs-abc.txt
+# Generative-Adversial-Networks-GANs
